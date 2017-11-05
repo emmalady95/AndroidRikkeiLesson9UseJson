@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRikkeiLesson9UseJson</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="tv_id">ID</string>
+    <string name="tv_title">TITLE</string>
+    <string name="tv_body">SHOW BODY</string>
+</resources>
